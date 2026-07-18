@@ -163,6 +163,9 @@ This project is licensed under the MIT License.
 ### Happy Coding! 🚀
 **Practice Logic Every Day and Become a Better Programmer.**
 
+Explanation Video Link :
+https://docs.google.com/document/d/1Sl885O4RP7IQYIRAHbbBDF7s-jKRmCi-7_9Cz0Bfsa0/edit?usp=sharing
+
  Linkedin : www.linkedin.com/in/archana-kushvaha-a61166415
 
  Email : archanakushvaha735@gmail.com
