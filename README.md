@@ -150,16 +150,6 @@ It motivates me to create more beginner-friendly programming content.
 
 ---
 
-## 📄 License
-
-## Linkedin : 
-
-## E-mail : 
-
-This project is licensed under the MIT License.
-
----
-
 ### Happy Coding! 🚀
 **Practice Logic Every Day and Become a Better Programmer.**
 
