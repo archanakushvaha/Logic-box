@@ -164,7 +164,7 @@ This project is licensed under the MIT License.
 **Practice Logic Every Day and Become a Better Programmer.**
 
 Explanation Video Link :
-https://docs.google.com/document/d/1Sl885O4RP7IQYIRAHbbBDF7s-jKRmCi-7_9Cz0Bfsa0/edit?usp=sharing
+https://drive.google.com/file/d/1JtKZp0T3K552_kBK1IYHQQJPL0lz68SG/view?usp=sharing
 
  Linkedin : www.linkedin.com/in/archana-kushvaha-a61166415
 
